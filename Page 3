@@ -1,0 +1,14 @@
+html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Page 3</title>
+</head>
+
+<body>
+  <p>HTML, sigla en inglés de HyperText Markup Language (lenguaje de marcas de hipertexto), <br>
+  hace referencia al lenguaje de marcado para la elaboración de páginas web. <br>
+ Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, <br>
+ define una estructura básica y un código(denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.</p>
+</body>
+</html>
