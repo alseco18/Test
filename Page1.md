@@ -3,8 +3,7 @@ html lang="en">
   <meta charset="utf-8">
 
   <title>Page 1</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
+  
 </head>
 
 <body>
